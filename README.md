@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="public/assets/generated/logo.png" alt="Rudreshwar Mahadeo Kothi Logo" width="200"/>
   <h1>Rudreshwar Mahadeo Kothi</h1>
   <p><em>Heritage Haveli in the Heart of Varanasi • A Stay Guests Remember</em></p>
 </div>
