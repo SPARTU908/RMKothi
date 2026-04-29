@@ -7,6 +7,7 @@ import { inject } from "@vercel/analytics";
 import Home from "./components/Home";
 import Blog from "./components/Blog";
 import BlogDetails from "./components/BlogDetails";
+import Reviews from "./components/Reviews";
 // Inject Vercel Analytics
 inject();
 BigInt.prototype.toJSON = function () {
@@ -30,7 +31,12 @@ const blogdetailsRoute = createRoute({
    path: '/blog-details/$slug',
   component: BlogDetails
 });
-const routeTree = rootRoute.addChildren([indexRoute, blogRoute,blogdetailsRoute]);
+const reviewsRoute = createRoute({
+  getParentRoute: () => rootRoute,
+  path: '/reviews',
+  component: Reviews
+});
+const routeTree = rootRoute.addChildren([indexRoute, blogRoute, blogdetailsRoute, reviewsRoute]);
 const router = createRouter({
   routeTree
 });

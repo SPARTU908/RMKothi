@@ -5,7 +5,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
 import { inject } from "@vercel/analytics";
-import { CheckCircle2, ChevronDown, ChevronLeft, ChevronRight, Clock, Coffee, Droplets, ExternalLink, Icon, Leaf, Loader2, Mail, MapPin, Menu, Phone, Shirt, Star, Users, VolumeX, Wifi, Wind, X, Image } from "lucide-react";
+import { Car, CheckCircle2, ChevronDown, ChevronLeft, ChevronRight, Clock, Coffee, Droplets, ExternalLink, Flame, Icon, Leaf, Loader2, Mail, MapPin, Menu, Phone, Shirt, Star, Users, Utensils, VolumeX, Wifi, Wind, X, Image } from "lucide-react";
 import { stairs } from "@lucide/lab";
 import { AnimatePresence, motion } from "motion/react";
 import { useState, useEffect, useRef } from "react";
@@ -790,7 +790,7 @@ export default function Home() {
                   <div className="inline-flex items-center gap-2 bg-white/15 backdrop-blur-sm border border-white/25 rounded-full px-4 py-1.5">
                     <Star className="w-3.5 h-3.5 fill-amber-300 text-amber-300" />
                     <span className="text-white/90 text-xs font-medium tracking-widest uppercase">
-                      Heritage Haveli - AirBnB Guest Favorite
+                      Heritage Kothi • 5★ Guest Rated Stay
                     </span>
                   </div>
                 </motion.div>
@@ -980,39 +980,47 @@ export default function Home() {
                   </h2>
                 </motion.div>
 
-                <motion.div variants={stagger} className="grid grid-cols-2 sm:grid-cols-4 gap-4 sm:gap-6">
+                <motion.div variants={stagger} className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4 sm:gap-6">
                   {[{
                     icon: Coffee,
                     label: "Hearty Breakfast",
-                    desc: "Fresh homemade vegetarian & vegan meals"
+                    desc: "Freshly prepared vegetarian & vegan meals"
                   }, {
                     icon: Clock,
-                    label: "Late Check-in",
-                    desc: "Available with advance notice"
+                    label: "Flexible Late Check-in",
+                    desc: "Hassle-free arrival with prior notice"
                   }, {
                     icon: Leaf,
-                    label: "Free Vegan Toiletries",
-                    desc: "Premium set for all rooms"
+                    label: "Vegan Bath Essentials",
+                    desc: "Premium cruelty-free toiletries"
                   }, {
                     icon: MapPin,
-                    label: "Local Experiences",
-                    desc: "City tours & cultural immersion"
-                  }, {
-                    icon: Shirt,
-                    label: "Laundry Service",
-                    desc: "Washing machine available for fee"
+                    label: "Curated Local Experiences",
+                    desc: "Heritage walks & cultural immersion"
                   }, {
                     icon: Wifi,
-                    label: "Free Wi-Fi",
-                    desc: "High-speed throughout the property"
+                    label: "High-Speed Wi-Fi",
+                    desc: "Seamless connectivity across the Kothi"
                   }, {
                     icon: Droplets,
-                    label: "Hot & Cold Shower",
-                    desc: "24x7 in all bathrooms"
+                    label: "24×7 Hot & Cold Water",
+                    desc: "Uninterrupted comfort in all bathrooms"
                   }, {
-                    icon: VolumeX,
-                    label: "Soundproofing",
-                    desc: "Soundproofed windows & doors"
+                    icon: Wind,
+                    label: "Peaceful Heritage Setting",
+                    desc: "Calm ambience within a traditional Kothi"
+                  }, {
+                    icon: Flame,
+                    label: "In-House Temple",
+                    desc: "Spiritual environment for our guests"
+                  }, {
+                    icon: Utensils,
+                    label: "In-House Kitchen",
+                    desc: "Custom meals made to your liking"
+                  }, {
+                    icon: Car,
+                    label: "Paid Cab Services",
+                    desc: "Reliable transport available on request"
                   }].map(({
                     icon: Icon,
                     label,
@@ -1156,6 +1164,15 @@ export default function Home() {
                 </motion.div>
 
                 <ReviewsSection />
+
+                <motion.div variants={fadeUp} className="mt-16 text-center">
+                  <Button onClick={() => {
+                    navigate({ to: "/reviews" });
+                    window.scrollTo(0, 0);
+                  }} size="lg" className="rounded-full bg-primary text-primary-foreground hover:bg-primary/90 px-8 py-6 text-base font-medium shadow-lg group">
+                    View All Reviews <ChevronRight className="w-5 h-5 ml-1 group-hover:translate-x-1 transition-transform" />
+                  </Button>
+                </motion.div>
               </motion.div>
             </div>
           </section>
