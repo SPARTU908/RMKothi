@@ -6,7 +6,7 @@ export const blogs = [
         "Looking for the best hotel near Kashi Vishwanath Temple? Discover how to choose the right stay near Ganga River, Dashashwamedh Ghat, and Godowlia for a peaceful Varanasi experience.",
       keywords: "Best Hotel Near Kashi Vishwanath Temple",
     },
-    slug: "best-hotel-near-kashi-vishwanath-temple-complete-stay-guide-varanasi",
+    slug: "best-hotel-near-kashi-vishwanath-temple",
     title: "How to Choose the Best Hotel Near Kashi Vishwanath Temple (Complete Guide)",
     desc: "A visit to Kashi Vishwanath Temple is not just a trip, it’s a deeply personal, spiritual experience. The narrow by lanes, the sound of temple bells, the fragrance of incense, and the quiet presence of faith create something that stays with you long after you leave.",
     img: "/assets/generated/blog-8-cover.jpeg",
