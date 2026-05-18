@@ -23,7 +23,7 @@ export const blogs = [
 <p>Tourists who stay near the Ganga River also get a chance to explore the old streets of Banaras, local food stalls, silk saree shops, temples, and hidden cultural gems without hassle.</p>
 
 
-<h2 className="text-foreground font-display font-semibold mt-12 mb-5 text-3xl">Comfortable Stay at Rudreshwar Mahadeo Kothi<h2>
+<h2 className="text-foreground font-display font-semibold mt-12 mb-5 text-3xl">Comfortable Stay at Rudreshwar Mahadeo Kothi</h2>
 <p>Rudreshwar Mahadeo Kothi is designed to provide guests with a relaxing and comfortable experience during their visit to Varanasi. The hotel offers clean and spacious rooms equipped with modern facilities to ensure a peaceful stay.</p>
 <p>Guests can enjoy amenities like:</p>
 
@@ -42,7 +42,7 @@ export const blogs = [
 </p>
 
 
-<h2 className="text-foreground font-display font-semibold mt-12 mb-5 text-3xl">Easy Access to Major Attractions<h2>
+<h2 className="text-foreground font-display font-semibold mt-12 mb-5 text-3xl">Easy Access to Major Attractions</h2>
 <p>One of the biggest advantages of staying at Rudreshwar Mahadeo Kothi is its excellent location. The hotel is close to many popular attractions in Varanasi, making local travel convenient and time-saving.</p>
 <p>Some nearby attractions include:</p>
 
@@ -65,13 +65,13 @@ Staying near these attractions helps travelers experience the city without trans
 </p>
 
 
-<h2 className="text-foreground font-display font-semibold mt-12 mb-5 text-3xl">Experience the Spiritual Beauty of Varanasi<h2>
+<h2 className="text-foreground font-display font-semibold mt-12 mb-5 text-3xl">Experience the Spiritual Beauty of Varanasi</h2>
 <p>Varanasi is not just a city; it is an emotion for many people. Watching the sunrise over the Ganga River, hearing temple bells in the morning, and witnessing the spiritual rituals on the ghats create unforgettable memories.</p>
 <p>When you stay at Rudreshwar Mahadeo Kothi, you remain connected to the spiritual heartbeat of the city. Early morning boat rides on the Ganga, meditation by the riverside, and evening aarti become part of your daily experience.</p>
 <p>For devotees and spiritual seekers, staying near the river offers a peaceful environment that enhances their pilgrimage journey.</p>
 
 
-<h2 className="text-foreground font-display font-semibold mt-12 mb-5 text-3xl">Ideal for Families and Tourists<h2>
+<h2 className="text-foreground font-display font-semibold mt-12 mb-5 text-3xl">Ideal for Families and Tourists</h2>
 <p>Finding a safe and comfortable hotel is important, especially for families traveling with children or elderly members. Rudreshwar Mahadeo Kothi focuses on providing a welcoming and secure environment for all guests.</p>
 <p>The hotel staff ensures guests receive proper guidance regarding nearby attractions, local transportation, and temple visits. The convenient location also helps visitors avoid unnecessary travel complications in the crowded streets of Varanasi.</p>
 <p>Tourists visiting Varanasi for the first time often prefer hotels near the Ganga River because they can explore most attractions on foot and experience the authentic atmosphere of the city.</p>
