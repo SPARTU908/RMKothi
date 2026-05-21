@@ -93,7 +93,7 @@ export const blogs = [
 
 
 <h2 className="text-foreground font-display font-semibold mt-12 mb-5 text-3xl">Why Travelers Prefer Rudreshwar Mahadeo Kothi</h2>
-<p>Travelers searching for the <a href="https://rmkothi.com/">best hotel in Varanasi</a? often prioritize location, comfort, cleanliness, and service quality. Rudreshwar Mahadeo Kothi successfully brings all these elements together under one roof.</p>
+<p>Travelers searching for the <a href="https://rmkothi.com/">best hotel in Varanasi</a> often prioritize location, comfort, cleanliness, and service quality. Rudreshwar Mahadeo Kothi successfully brings all these elements together under one roof.</p>
 <p>Guests appreciate the hotel for its:
 </p>
 <ul className="list-disc pl-5 mb-4">
