@@ -12,7 +12,7 @@ export const blogs = [
     "Hotel Near Ganga Aarti Varanasi – Stay Close to the Most Divine Experience of Banaras",
   desc:
     "Varanasi is a city where spirituality comes alive every day. Among its countless attractions, the Ganga Aarti stands out as one of the most mesmerizing and unforgettable experiences for visitors. Held every evening on the banks of the sacred River Ganga, this grand ceremony attracts thousands of devotees, tourists, photographers, and spiritual seekers from around the world.",
-  img: "/assets/generated/blog-36-cover.jpeg",
+  img: "/assets/generated/blog-38-cover.jpeg",
   date: "19-06-2026",
   content: `
 <p>For travelers who wish to witness this divine spectacle without worrying about transportation or long commutes, choosing a For travelers who wish to witness this divine spectacle without worrying about transportation or long commutes, choosing a <a href="https://rmkothi.com/">Hotel Near Ganga Aarti Varanasi</a> is the perfect decision.offers a welcoming stay. Staying close to the ceremony allows visitors to fully experience the spiritual atmosphere of Banaras while enjoying comfort and convenience throughout their journey.</p>
