@@ -11,7 +11,7 @@ export const blogs = [
   slug: "hotel-near-ganga-aarti-varanasi-for-comfortable-stay",
 
   title:
-    "Hotel Near Ganga Aarti Varanasi – Enjoy the Divine Evening While Staying in",
+    "Hotel Near Ganga Aarti Varanasi – Enjoy the Divine Evening While Staying in Comfort",
 
   desc:
     "Varanasi is one of the few places in the world where spirituality becomes a living experience. Every day, thousands of devotees and travelers gather on the banks of the holy River Ganga to witness the spectacular Ganga Aarti, one of the city's most unforgettable spiritual experiences.",
