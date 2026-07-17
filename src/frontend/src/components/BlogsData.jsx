@@ -18,7 +18,7 @@ export const blogs = [
 
   img: "/assets/generated/blog-39-cover.jpeg",
 
-  date: "19-06-2026",
+  date: "17-07-2026",
 
   content: `
 
