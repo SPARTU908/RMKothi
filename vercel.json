@@ -1,5 +1,5 @@
 {
-  "outputDirectory": "dist",
+ "outputDirectory": "src/frontend/dist",
   "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
