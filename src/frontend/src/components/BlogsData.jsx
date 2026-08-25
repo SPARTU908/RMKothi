@@ -11,7 +11,7 @@ export const blogs = [
     title:
       "River View Hotel Varanasi: Wake Up to Comfort and Beautiful Ganga Views",
     desc: "There is something special about waking up in Varanasi. The gentle sounds of the city, the spiritual energy around the ghats, and the sight of the sacred Ganga create an experience that stays with you long after your trip. Choosing the right place to stay can make this experience even more memorable. A River View Hotel Varanasi offers the perfect combination of comfortable accommodation, convenient location, and beautiful views of the Ganga",
-    img: "/assets/generated/blog-44-cover.jpeg",
+    img: "/assets/generated/blog-44-cover.png",
     date: "25-08-2026",
     content: ` 
     <p>For travellers who want to experience the spiritual heart of the city while enjoying a peaceful and comfortable room, staying at a Hotel near the Ganga River in Varanasi can be an excellent choice. Whether you are visiting for a spiritual journey, a family holiday, or simply to explore the heritage of Varanasi, a well-located hotel gives you the opportunity to enjoy the city at your own pace.</p>
