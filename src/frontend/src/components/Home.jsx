@@ -391,7 +391,7 @@ function RoomCard({
 
       {/* Buttons */}
       <div className="mt-auto flex flex-col gap-2">
-        <Button data-ocid={bookNowMarker} onClick={() => window.open(room.bookingUrl || "https://live.ipms247.com/booking/book-rooms-rudreshwarmahadeokothibyvns", "_blank")} className="w-full bg-primary text-primary-foreground hover:bg-primary/90 rounded-full">
+        <Button data-ocid={bookNowMarker} onClick={() => window.open(room.bookingUrl || "https://letsbook.me/booking/rudreshwarmahadeokothibyvns?checkin=2026-09-01&checkout=2026-09-02&adults=2&children=0", "_blank")} className="w-full bg-primary text-primary-foreground hover:bg-primary/90 rounded-full">
           Book Now
         </Button>
         <Button data-ocid={inquireMarker} onClick={onInquire} variant="outline" className="w-full border-border rounded-full text-sm">
