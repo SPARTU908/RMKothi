@@ -16,7 +16,7 @@ export const blogs = [
   desc:
     "Discover a comfortable stay near Dashashwamedh Ghat at Rudreshwar Mahadeo Kothi. Enjoy convenient access to the Ganga Aarti, Kashi Vishwanath Temple, Godowlia, and the historic charm of Varanasi.",
 
-  img: "/assets/generated/blog-44-cover.jpeg",
+  img: "/assets/generated/blog-45-cover.jpeg",
 
   date: "02-08-2026",
 
