@@ -198,7 +198,7 @@ export const blogs = [
       Visit <a href="https://rmkothi.com/">rmkothi.com</a> to learn more about Rudreshwar Mahadeo Kothi and plan your visit to the spiritual heart of India.
     </p>
   `,
-}
+},
  
  // blog 49
 {
